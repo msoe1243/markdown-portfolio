@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[image][billede af bil](https://frontimg.dk/users/drf-eb/images/6077086.jpg)
